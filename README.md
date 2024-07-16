@@ -55,36 +55,8 @@ The analysis is performed using Jupyter Notebook. To start Jupyter Notebook, run
 
 **Project Structure**
 
-project-1/ 
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── README.md
-│
-├── notebooks/
-│   └── ecommerce_analysis.ipynb
-│
-├── scripts/
-│   ├── data_cleaning.py
-│   ├── data_visualization.py
-│   └── exploratory_analysis.py
-│
-├── examples/
-│   ├── items_sold_by_country_seasonality.png
-│   ├── top_product_categories_by_country.png
-│   ├── top_products_sold_by_category_italy.png
-│   ├── top_products_sold_by_category_usa.png
-│   ├── top_countries_by_total_earnings.png
-│   ├── gender_distribution_of_buyers.png
-│   ├── seller_location_by_country.png
-│   ├── top_selling_brands.png
-│   ├── condition_of_items_by_brand.png
-│   ├── seasonality_material.png
-│   └── key_findings.md
-│
-├── requirements.txt
-├── README.md
+![image](https://github.com/user-attachments/assets/0813900f-d33a-4596-87d2-5bb23cffc6bf)
+
 
 * data/: Contains raw and processed data files.
 * notebooks/: Jupyter Notebooks for analysis.
