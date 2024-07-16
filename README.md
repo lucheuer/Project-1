@@ -49,7 +49,7 @@ The analysis is performed using Jupyter Notebook. To start Jupyter Notebook, run
 
  1. Load Data: Load the e-commerce dataset into a DataFrame.
  2. Data Cleaning: Handle missing values, data types, and duplicates.
- 3. Exploratory Analysis: Perform univariate, bivariate, and multivariate analysis.
+ 3. Exploratory Analysis: Perform univariate, bivariate, multivariate analysis, correlation and causation.
  4. Visualization: Use matplotlib and plotly for data visualization.
  5. Insights: Summarize key findings and insights.
 
