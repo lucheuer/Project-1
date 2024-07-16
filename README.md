@@ -1,7 +1,7 @@
 # Project-1
 SMU Project 1 Group 3
 
-# List of Analysis/ Visualations
+# List of Analysis/ Visualizations
 
 1. Items Sold By Country/ Seasonality | Scatter Plot
 2. Top 20 Product Categories by Country | Bar Graph
@@ -12,5 +12,5 @@ SMU Project 1 Group 3
 7. Seller Location By Country | Bubble Map
 8. Top Selling Brands | Line Graph
 9. Condition of Items By Brand | Bar Graph
-10. Top Brands By Market Share | Pie Graph
+10. Seasonality/Material | Pie Graph
 11. Something Based on Price/Margin
