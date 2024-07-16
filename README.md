@@ -9,8 +9,9 @@ Welcome to the E-commerce Exploratory Data Analysis project! This project aims t
 * Contributing
 * License
 ## Installation
-Prerequisites
-**Before you begin, ensure you have met the following requirements:**
+**Prerequisites**
+
+Before you begin, ensure you have met the following requirements:
 Python 3.8 or higher
 pip (Python package installer)
 
