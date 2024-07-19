@@ -91,16 +91,15 @@ Seasonality/Material
 
 The exploratory data analysis of the e-commerce dataset revealed several key insights:
 
-1. Items Sold By Country/Seasonality: Scatter plots indicated significant seasonal trends in sales across various countries.
-2. Top Product Categories by Country: Bar graphs highlighted the top 20 product categories in different countries, showing regional preferences.
-3. Top Products Sold By Category in Italy and USA: Bar graphs identified the most popular products in Italy and the USA, showcasing consumer preferences.
-4. Top 10 Countries by Total Earnings: Bar graphs illustrated the countries with the highest total earnings from product sales.
-5. Gender Distribution of Buyers: Pie charts revealed the gender distribution of buyers, providing insights into the target audience.
-6. Seller Location By Country: Bubble maps displayed the geographical distribution of sellers, highlighting key markets.
-7. Top Selling Brands: Line graphs tracked the performance of top-selling brands over time.
-8. Condition of Items By Brand: Bar graphs analyzed the condition of items sold by different brands, showing quality trends.
-9. Seasonality/Material: Pie charts illustrated the seasonality of material sales, indicating material preferences during different seasons.
-10. Price/Margin Analysis: Detailed analysis on price and margin provided insights into profitability.
+1. Items Sold By Country/Seasonality: Our plots indicated that there is not a significant seasonal trend in sales data but there are definitely geographic trends.
+2. Top Product Categories by Country: Women's shoes and women's clothing were the top categories.
+3. Top Products Sold By Category in Italy and USA: Our analysis shows that women's clothing was the top category from Italy while Women's shoes was the top category in the USA. 
+4. Gender Distribution of Buyers: Pie charts revealed the gender distribution of buyers with about 60% of buyers being women.
+5. Seller Location By Country: Bubble maps displayed the geographical distribution of sellers, highlighting key markets which are concentrated in Europe.
+6. Top Selling Brands: Top selling brands include Gucci, Prada, Hermes.
+7. Material: Pie charts illustrated the seasonality of material sales, indicating material preferences during different seasons.
+8. Price/Margin Analysis: Detailed analysis on price and margin provided insights into profitability.
+9. Brand Condition: Never worn with tag, never worn were the top sellers.
 
 These insights can help in optimizing marketing strategies, inventory management, and overall business planning.
 
@@ -114,7 +113,7 @@ Natalie Brewer - https://github.com/nbrew3000
 
 Michael Sheveland - https://github.com/MichaelSheveland
 
-Russell Haskell - 
+Russell Haskell - https://github.com/rhask87062
 
 ## License
 Public
