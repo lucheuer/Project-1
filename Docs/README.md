@@ -1,5 +1,5 @@
 ## Project-1-Group 3: E-commerce Exploratory Data Analysis
-Welcome to the E-commerce Exploratory Data Analysis project! This project aims to analyze e-commerce data to uncover insights and trends. This README file provides detailed instructions on how to install and use this project.
+Welcome to the E-commerce Exploratory Data Analysis project! This project aims to analyze e-commerce data to uncover insights and trends. Our data comes from Vestiaire Collective where people buy and sell designer fashion with a community of millions of fashion enthusiasts worldwide. This README file provides detailed instructions on how to install and use this project.
 ## Table of Contents
 * Installation
 * Usage
