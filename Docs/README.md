@@ -29,10 +29,14 @@ pip (Python package installer)
 **Install Dependencies**
 
 Install the required packages using pip:
+* import numpy as np
 * import pandas as pd
 * import matplotlib.pyplot as plt
-* import numpy as np
 * import plotly.graph_objects as go
+* import plotly.express as px
+* import seaborn as sns
+* import warnings
+* warnings.filterwarnings('ignore')
 * import plotly.colors as pc
 
 ## Usage
