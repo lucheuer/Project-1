@@ -59,8 +59,7 @@ The analysis is performed using Jupyter Notebook. To start Jupyter Notebook, run
 
 **Project Structure**
 
-![image](https://github.com/user-attachments/assets/0813900f-d33a-4596-87d2-5bb23cffc6bf)
-
+![image](https://github.com/user-attachments/assets/b9cc2e62-d4cf-4599-a8a1-aaff45a67aa9)
 
 * data/: Contains raw and processed data files.
 * notebooks/: Jupyter Notebooks for analysis.
