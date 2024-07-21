@@ -117,19 +117,24 @@ Findings: The dominance of luxury watches is evident in the list, with six out o
 
 **Summary of Analysis**
 
-The exploratory data analysis of the e-commerce dataset revealed several key insights:
+The vestaire dataset, sourced from Kaggle.com/Vestaire, originally comprised a massive file with 36 columns and 900,514 rows. After focusing on the necessary data, the dataset was reduced to 20 columns and 13,736 rows, now called vestaire_smaller. This reduced dataset, representing 1% of the original size, was analyzed to answer several key questions and derive insights.
 
-1. Items Sold By Country/Seasonality: Our plots indicated that there is not a significant seasonal trend in sales data but there are definitely geographic trends.
-2. Top Product Categories by Country: Women's shoes and women's clothing were the top categories.
-3. Top Products Sold By Category in Italy and USA: Our analysis shows that women's clothing was the top category from Italy while Women's shoes was the top category in the USA. 
-4. Gender Distribution of Buyers: Pie charts revealed the gender distribution of buyers with about 60% of buyers being women.
-5. Seller Location By Country: Bubble maps displayed the geographical distribution of sellers, highlighting key markets which are concentrated in Europe.
-6. Top Selling Brands: Top selling brands include Gucci, Prada, Hermes.
-7. Material: Pie charts illustrated the seasonality of material sales, indicating material preferences during different seasons.
-8. Price/Margin Analysis: Detailed analysis on price and margin provided insights into profitability.
-9. Brand Condition: Never worn with tag, never worn were the top sellers.
+Key Findings:
 
-These insights can help in optimizing marketing strategies, inventory management, and overall business planning.
+Seasonal Sales: Nearly 84% of items sold fall into the All Season category, driven by certain widely sold materials, which helps in determining optimal inventory levels for better turnover.
+Top Brands: Gucci leads in product sales, significantly outperforming other brands. The trend shows a hierarchical structure from Gucci to lower-performing brands like Saint Laurent, indicating a fragmented market with potential growth for lesser-known brands.
+Material Preferences: Cotton is the most popular material for all seasons, with polyester trailing behind, indicating a strong consumer preference for cotton in clothing and accessories.
+Product Distribution: Women's Shoes and Women's Clothing are the most distributed categories, while Women's Accessories are the least. Brands can use this data to prioritize high-demand categories and enhance marketing strategies.
+Product Condition: Gucci also leads in products sold in "Very good condition," which is the highest-selling condition across all brands, emphasizing the importance of quality in inventory management and marketing.
+Top Products: T-shirts, especially those made of cotton, are the best-selling items, highlighting the viability of selling second-hand T-shirts.
+Buyer Demographics: Around 60% of buyers are women, aligning with the top product categories and suggesting targeted marketing strategies.
+Successful Selling Countries: Italy leads in product sales success at 37.2%, followed by France, the United Kingdom, Germany, and the United States. European countries, particularly Italy and France, dominate in total earnings from sold products.
+Earnings Ratio: The top four products with the highest earnings ratios include luxury items from Louis Vuitton, Gucci, Burberry, and Dita, indicating consistent profitability across different high-end brands.
+Top Sellers: The top seller earned $20,000, significantly ahead of others, with a noticeable earnings drop among the top ten, indicating a competitive landscape.
+Expensive Products: Luxury watches dominate the list of the most expensive products, highlighting the high market value placed on these items.
+Price by Condition: The highest prices are for items in "never worn, with tag" condition, while the lowest prices are for items in "fair condition."
+Country Price Patterns: Top-selling countries also show higher price concentrations, with significant price variations indicating potential high earnings for specialty products.
+These insights can help in strategic planning, inventory management, and targeted marketing, ultimately driving sales growth and profitability.
 
 ## Contributors
 
