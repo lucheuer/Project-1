@@ -121,19 +121,20 @@ The vestaire dataset, sourced from Kaggle.com/Vestaire, originally comprised a m
 
 Key Findings:
 
-Seasonal Sales: Nearly 84% of items sold fall into the All Season category, driven by certain widely sold materials, which helps in determining optimal inventory levels for better turnover.
-Top Brands: Gucci leads in product sales, significantly outperforming other brands. The trend shows a hierarchical structure from Gucci to lower-performing brands like Saint Laurent, indicating a fragmented market with potential growth for lesser-known brands.
-Material Preferences: Cotton is the most popular material for all seasons, with polyester trailing behind, indicating a strong consumer preference for cotton in clothing and accessories.
-Product Distribution: Women's Shoes and Women's Clothing are the most distributed categories, while Women's Accessories are the least. Brands can use this data to prioritize high-demand categories and enhance marketing strategies.
-Product Condition: Gucci also leads in products sold in "Very good condition," which is the highest-selling condition across all brands, emphasizing the importance of quality in inventory management and marketing.
-Top Products: T-shirts, especially those made of cotton, are the best-selling items, highlighting the viability of selling second-hand T-shirts.
-Buyer Demographics: Around 60% of buyers are women, aligning with the top product categories and suggesting targeted marketing strategies.
-Successful Selling Countries: Italy leads in product sales success at 37.2%, followed by France, the United Kingdom, Germany, and the United States. European countries, particularly Italy and France, dominate in total earnings from sold products.
-Earnings Ratio: The top four products with the highest earnings ratios include luxury items from Louis Vuitton, Gucci, Burberry, and Dita, indicating consistent profitability across different high-end brands.
-Top Sellers: The top seller earned $20,000, significantly ahead of others, with a noticeable earnings drop among the top ten, indicating a competitive landscape.
-Expensive Products: Luxury watches dominate the list of the most expensive products, highlighting the high market value placed on these items.
-Price by Condition: The highest prices are for items in "never worn, with tag" condition, while the lowest prices are for items in "fair condition."
-Country Price Patterns: Top-selling countries also show higher price concentrations, with significant price variations indicating potential high earnings for specialty products.
+1. Seasonal Sales: Nearly 84% of items sold fall into the All Season category, driven by certain widely sold materials, which helps in determining optimal inventory levels for better turnover.
+2. Top Brands: Gucci leads in product sales, significantly outperforming other brands. The trend shows a hierarchical structure from Gucci to lower-performing brands like Saint Laurent, indicating a fragmented market with potential growth for lesser-known brands.
+3. Material Preferences: Cotton is the most popular material for all seasons, with polyester trailing behind, indicating a strong consumer preference for cotton in clothing and accessories.
+4. Product Distribution: Women's Shoes and Women's Clothing are the most distributed categories, while Women's Accessories are the least. Brands can use this data to prioritize high-demand categories and enhance marketing strategies.
+5. Product Condition: Gucci also leads in products sold in "Very good condition," which is the highest-selling condition across all brands, emphasizing the importance of quality in inventory management and marketing.
+6. Top Products: T-shirts, especially those made of cotton, are the best-selling items, highlighting the viability of selling second-hand T-shirts.
+7. Buyer Demographics: Around 60% of buyers are women, aligning with the top product categories and suggesting targeted marketing strategies.
+8. Successful Selling Countries: Italy leads in product sales success at 37.2%, followed by France, the United Kingdom, Germany, and the United States. European countries, particularly Italy and France, dominate in total earnings from sold products.
+9. Earnings Ratio: The top four products with the highest earnings ratios include luxury items from Louis Vuitton, Gucci, Burberry, and Dita, indicating consistent profitability across different high-end brands.
+10. Top Sellers: The top seller earned $20,000, significantly ahead of others, with a noticeable earnings drop among the top ten, indicating a competitive landscape.
+11. Expensive Products: Luxury watches dominate the list of the most expensive products, highlighting the high market value placed on these items.
+12. Price by Condition: The highest prices are for items in "never worn, with tag" condition, while the lowest prices are for items in "fair condition."
+13. Country Price Patterns: Top-selling countries also show higher price concentrations, with significant price variations indicating potential high earnings for specialty products.
+
 These insights can help in strategic planning, inventory management, and targeted marketing, ultimately driving sales growth and profitability.
 
 ## Contributors
