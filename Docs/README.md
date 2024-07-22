@@ -140,7 +140,7 @@ Key Findings:
 
 These insights can help in strategic planning, inventory management, and targeted marketing, ultimately driving sales growth and profitability.
 
-## Contributors
+## Collaborators
 
 Lucas Heuer - https://github.com/lucheuer
 
